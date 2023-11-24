@@ -2,11 +2,11 @@ body {
     background-color: #f0f5ff; 
     color: #333;
     font-family: Arial, sans-serif; 
-    margin-left: 360px;
+    margin-left: 450px;
     margin-top: 180px;
     background-image: url(../img/logo.png);
     background-repeat: no-repeat;
-    background-position: 395px 30px;
+    background-position: 535px 30px;
 }
 
 label {
@@ -33,7 +33,7 @@ button {
     padding: 10px 15px;
     border: none;
     cursor: pointer;
-    margin-left: 120px;
+    margin-left: 160px;
     margin-top: 30px;
 }
 
